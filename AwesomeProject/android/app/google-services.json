@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725275574282",
+    "project_id": "blood-bank-app-d43fd",
+    "storage_bucket": "blood-bank-app-d43fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725275574282:android:cb604e37a39f4e402adff3",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725275574282-ljqlkai12aar31qv62huni6es1m5oc9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJU8DvbTblTxvqzzk_b71hQCM293863-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725275574282-ljqlkai12aar31qv62huni6es1m5oc9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
